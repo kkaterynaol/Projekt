@@ -11,6 +11,3 @@ D:\Kateryna\stud\IV Semestr\Programowanie\c# projekt\Programowanie w53431\MediaP
 D:\Kateryna\stud\IV Semestr\Programowanie\c# projekt\Programowanie w53431\MediaPlayer-53431\MediaPlayer-53431\obj\Debug\MediaPlayer-53431.csproj.GenerateResource.Cache
 D:\Kateryna\stud\IV Semestr\Programowanie\c# projekt\Programowanie w53431\MediaPlayer-53431\MediaPlayer-53431\obj\Debug\MediaPlayer-53431.exe
 D:\Kateryna\stud\IV Semestr\Programowanie\c# projekt\Programowanie w53431\MediaPlayer-53431\MediaPlayer-53431\obj\Debug\MediaPlayer-53431.pdb
-D:\Kateryna\stud\IV Semestr\Programowanie\c# projekt\Programowanie w53431\MediaPlayer-53431 - копия\MediaPlayer-53431\bin\Debug\MediaPlayer-53431.exe.config
-D:\Kateryna\stud\IV Semestr\Programowanie\c# projekt\Programowanie w53431\MediaPlayer-53431 - копия\MediaPlayer-53431\obj\Debug\MediaPlayer-53431.exe
-D:\Kateryna\stud\IV Semestr\Programowanie\c# projekt\Programowanie w53431\MediaPlayer-53431 - копия\MediaPlayer-53431\obj\Debug\MediaPlayer-53431.pdb
