@@ -1,0 +1,16 @@
+D:\Kateryna\stud\IV Semestr\Programowanie\c# projekt\Programowanie w53431\MediaPlayer-53431\MediaPlayer-53431\bin\Debug\MediaPlayer-53431.exe.config
+D:\Kateryna\stud\IV Semestr\Programowanie\c# projekt\Programowanie w53431\MediaPlayer-53431\MediaPlayer-53431\bin\Debug\MediaPlayer-53431.exe
+D:\Kateryna\stud\IV Semestr\Programowanie\c# projekt\Programowanie w53431\MediaPlayer-53431\MediaPlayer-53431\bin\Debug\MediaPlayer-53431.pdb
+D:\Kateryna\stud\IV Semestr\Programowanie\c# projekt\Programowanie w53431\MediaPlayer-53431\MediaPlayer-53431\obj\Debug\MediaPlayer-53431.csprojResolveAssemblyReference.cache
+D:\Kateryna\stud\IV Semestr\Programowanie\c# projekt\Programowanie w53431\MediaPlayer-53431\MediaPlayer-53431\obj\Debug\MainWindow.baml
+D:\Kateryna\stud\IV Semestr\Programowanie\c# projekt\Programowanie w53431\MediaPlayer-53431\MediaPlayer-53431\obj\Debug\MainWindow.g.cs
+D:\Kateryna\stud\IV Semestr\Programowanie\c# projekt\Programowanie w53431\MediaPlayer-53431\MediaPlayer-53431\obj\Debug\App.g.cs
+D:\Kateryna\stud\IV Semestr\Programowanie\c# projekt\Programowanie w53431\MediaPlayer-53431\MediaPlayer-53431\obj\Debug\MediaPlayer-53431_MarkupCompile.cache
+D:\Kateryna\stud\IV Semestr\Programowanie\c# projekt\Programowanie w53431\MediaPlayer-53431\MediaPlayer-53431\obj\Debug\MediaPlayer-53431.g.resources
+D:\Kateryna\stud\IV Semestr\Programowanie\c# projekt\Programowanie w53431\MediaPlayer-53431\MediaPlayer-53431\obj\Debug\MediaPlayer_53431.Properties.Resources.resources
+D:\Kateryna\stud\IV Semestr\Programowanie\c# projekt\Programowanie w53431\MediaPlayer-53431\MediaPlayer-53431\obj\Debug\MediaPlayer-53431.csproj.GenerateResource.Cache
+D:\Kateryna\stud\IV Semestr\Programowanie\c# projekt\Programowanie w53431\MediaPlayer-53431\MediaPlayer-53431\obj\Debug\MediaPlayer-53431.exe
+D:\Kateryna\stud\IV Semestr\Programowanie\c# projekt\Programowanie w53431\MediaPlayer-53431\MediaPlayer-53431\obj\Debug\MediaPlayer-53431.pdb
+D:\Kateryna\stud\IV Semestr\Programowanie\c# projekt\Programowanie w53431\MediaPlayer-53431 - копия\MediaPlayer-53431\bin\Debug\MediaPlayer-53431.exe.config
+D:\Kateryna\stud\IV Semestr\Programowanie\c# projekt\Programowanie w53431\MediaPlayer-53431 - копия\MediaPlayer-53431\obj\Debug\MediaPlayer-53431.exe
+D:\Kateryna\stud\IV Semestr\Programowanie\c# projekt\Programowanie w53431\MediaPlayer-53431 - копия\MediaPlayer-53431\obj\Debug\MediaPlayer-53431.pdb
