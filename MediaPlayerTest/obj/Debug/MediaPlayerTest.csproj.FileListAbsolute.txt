@@ -1,0 +1,8 @@
+G:\Programowanie\MediaPlayer-53431\MediaPlayerTest\bin\Debug\MediaPlayerTest.dll
+G:\Programowanie\MediaPlayer-53431\MediaPlayerTest\bin\Debug\MediaPlayerTest.pdb
+G:\Programowanie\MediaPlayer-53431\MediaPlayerTest\bin\Debug\MediaPlayer-53431.exe
+G:\Programowanie\MediaPlayer-53431\MediaPlayerTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\Programowanie\MediaPlayer-53431\MediaPlayerTest\bin\Debug\MediaPlayer-53431.pdb
+G:\Programowanie\MediaPlayer-53431\MediaPlayerTest\obj\Debug\MediaPlayerTest.csprojResolveAssemblyReference.cache
+G:\Programowanie\MediaPlayer-53431\MediaPlayerTest\obj\Debug\MediaPlayerTest.dll
+G:\Programowanie\MediaPlayer-53431\MediaPlayerTest\obj\Debug\MediaPlayerTest.pdb
